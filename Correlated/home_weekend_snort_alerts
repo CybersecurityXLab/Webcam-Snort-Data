@@ -1,0 +1,6 @@
+11/10-00:26:21.681855  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.10.15 -> 192.168.10.11
+11/10-00:26:21.681904  [**] [1:408:5] ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.10.11 -> 192.168.10.15
+11/10-00:26:22.699827  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.10.15 -> 192.168.10.11
+11/10-00:26:22.699871  [**] [1:408:5] ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.10.11 -> 192.168.10.15
+11/10-00:26:23.718705  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.10.15 -> 192.168.10.11
+11/10-00:26:23.718746  [**] [1:408:5] ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.10.11 -> 192.168.10.15
