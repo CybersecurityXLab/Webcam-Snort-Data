@@ -1,0 +1,9 @@
+11/10-20:13:26.492847  [**] [1:1421:11] SNMP AgentX/tcp request [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.10.12:53186 -> 192.168.10.15:705
+11/10-20:13:26.492847  [**] [1:1421:11] SNMP AgentX/tcp request [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.10.12:53186 -> 192.168.10.15:705
+11/10-20:13:26.520827  [**] [1:1418:11] SNMP request tcp [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.10.12:53186 -> 192.168.10.15:161
+11/10-20:13:26.520828  [**] [1:1418:11] SNMP request tcp [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.10.12:53186 -> 192.168.10.15:161
+11/10-20:15:08.170917  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.10.15 -> 192.168.10.11
+11/10-20:15:08.170965  [**] [1:408:5] ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.10.11 -> 192.168.10.15
+11/10-20:15:09.182532  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.10.15 -> 192.168.10.11
+11/10-20:15:09.182577  [**] [1:408:5] ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.10.11 -> 192.168.10.15
+11/10-20:15:10.191585  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.10.15 -> 192.168.10.11
